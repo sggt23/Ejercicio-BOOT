@@ -1,0 +1,20 @@
+:root{
+    --bg-color: #7c64cc;
+    --primary-color: #4F1787;
+    --secondary-color: #EB3678;
+    --hg-color: #6e2402;
+    background-color: var(--bg-color);
+    color: var(--hg-color); 
+
+}
+div.container-fluid{
+    background-color: #7c64cc;
+    font-family: "Hachi Maru Pop", cursive;
+
+}
+
+div#Titulo{
+    position: sticky;
+    font-family: "Satisfy", cursive;
+
+}
